@@ -1,0 +1,111 @@
+{
+  "Abstract_lines": "抽象的な線",
+  "Add_Custom_Colors": "カスタムカラーを追加する",
+  "Artistic_lines": "線画",
+  "Brief_strokes": "簡単な描画",
+  "Custom_Colors": "カスタムカラーパレット",
+  "Generate_vector_diagram": "ベクターグラフィックスの生成",
+  "Generate_videos_from_vector_graphics": "ベクトルマップ生成ビデオ",
+  "Illustration": "図",
+  "Save": "保存",
+  "TextareaPlaceholder": "ベクター画像の説明を入力してください",
+  "addColorError": "保存に失敗しました",
+  "apikey_does_not_exist": "apiKey が存在しません",
+  "auth": {
+    "description": "作成者は認証を有効にしています。以下の共有コードを入力してください",
+    "form": {
+      "confirm_button": "確認",
+      "confirm_button_loading": "検証中",
+      "input_code": "共有コードを入力してください",
+      "remember_code": "共有コードを記憶する"
+    },
+    "title": "コードを共有する必要がある"
+  },
+  "auto": "自動",
+  "bad_response_status_code": "画像サイズは5Mを超えてはなりません",
+  "cancel": "キャンセル",
+  "carving": "彫刻",
+  "drag_here_to_upload": "ここにファイルをドラッグ アンド ドロップしてアップロードします",
+  "drop_here": "ここにファイルをドラッグ アンド ドロップします",
+  "duration_placeholder": "生成されたビデオの長さを入力してください",
+  "empty_image": "ベクター画像はまだ生成されていません",
+  "empty_video": "まだビデオが生成されていません",
+  "generateButton": "生成する",
+  "generateVideo": "ビデオの生成",
+  "generate_error": "ビルドに失敗しました",
+  "generate_success": "ベクター画像が正常に生成されました",
+  "generate_video_success": "ビデオが正常に生成されました",
+  "generation_video": "ビデオを生成中...",
+  "global": {
+    "error": {
+      "code-10001": "302 APIキーがありません",
+      "code-10002": "このツールは無効化/削除されています。詳細は <Gw>302.AI</Gw> をご覧ください。",
+      "code-10003": "ネットワークエラー、後でもう一度お試しください。",
+      "code-10004": "アカウント残高が不足しています。独自のツールを作成するには、 <Gw>302.AI</Gw> をご覧ください。",
+      "code-10005": "アカウントの資格情報が期限切れです。再度ログインしてください。",
+      "code-10006": "アカウントの総限度額に達しました。詳細は <Gw>302.AI</Gw> をご覧ください。",
+      "code-10007": "アカウントの日次限度額に達しました。詳細は <Gw>302.AI</Gw> をご覧ください。",
+      "code-10008": "現在利用可能なチャネルはありません。詳細は <Gw>302.AI</Gw> をご覧ください。",
+      "code-10009": "現在のAPI機能はサポートされていません。詳細は <Gw>302.AI</Gw> をご覧ください。",
+      "code-10010": "リソースが見つかりませんでした。詳細は <Gw>302.AI</Gw> をご覧ください。",
+      "code-10011": "無効なリクエスト",
+      "code-10012": "この無料ツールは今時間の上限に達しました。 <Gw>302.AI</Gw> を訪問して自分のツールを作成してください",
+      "code-10018": "アカウントの月次限度額に達しました。詳細は <Gw>302.AI</Gw> をご覧ください",
+      "code-1024": "AIインターフェース接続がタイムアウトしました。しばらくしてから再試行するか、<Gw>302.AI</Gw>に連絡してください。",
+      "code-default": "不明なエラー、詳細は <Gw></Gw>",
+      "code_invalid": "共有コードが無効です。詳細は302.AIをご覧ください",
+      "copy_failed": "コピーに失敗しました",
+      "network_error": "ネットワークサービスエラー。ネットワーク状態を確認するか、後ほど再試行してください",
+      "not_found": "ページが存在しません",
+      "tool_deleted": "このツールは削除されました。詳細については、<site>302.AI</site> にアクセスしてください。",
+      "tool_disabled": "このツールは無効になっています。詳細については、<site>302.AI</site> にアクセスしてください。",
+      "unknown_error": "不明なエラーが発生しました。サポートにお問い合わせください"
+    },
+    "footer": {
+      "copyright_content": "<logo></logo>による提供",
+      "copyright_leading": "AI生成のコンテンツであり、参考用です"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "言語を切り替える"
+      },
+      "theme_switcher": {
+        "dark": "ダークモード",
+        "light": "ライトモード",
+        "system": "システムデフォルト",
+        "toggle_theme": "テーマを切り替える"
+      },
+      "tool_info": {
+        "description": "現在のツールに関する情報",
+        "title": "について",
+        "trigger": {
+          "label": "ツール情報ポップアップを開く/閉じる"
+        }
+      }
+    }
+  },
+  "home": {
+    "isUploadLoading": "ファイルをアップロード中...",
+    "title": "AI ベクター画像生成"
+  },
+  "imgGenerationVectorGraphics": "画像をベクターに変換",
+  "invalid_file_format": "無効なファイル形式です。 \n.JPG .JPEG .PNG ファイルをアップロードしてください。",
+  "invalid_svg_file_format": "無効なファイル形式です。 \nSVGファイルをアップロードしてください。",
+  "optimize_error": "最適化に失敗しました",
+  "or": "または",
+  "qptimize_prompt_words": "最適化プロンプトの言葉",
+  "qptimize_prompt_words_tips": "プロンプトワードは最適化されています",
+  "textGenerationVectorGraphics": "テキスト生成のベクター グラフィックス",
+  "upload_files": "ファイルをアップロードしてください",
+  "upload_local_images": "クリックしてローカルの写真をアップロードします",
+  "upload_support_format": "SVG形式のみをサポートします",
+  "upload_support_format_svg": "SVG形式のみをサポートします",
+  "upload_text": "ベクター画像をここにドラッグ アンド ドロップします",
+  "upload_text2": "クリックしてベクター ファイルをアップロードします",
+  "upload_tips": "jpg、jpeg、png形式をサポート",
+  "upper_limit": "作成できる色は最大 10 色までです",
+  "vector_graph_generation_in_progress": "ベクター画像を生成中です...",
+  "video_duration": "動画の長さ (1 ～ 15 秒)：",
+  "video_duration_max": "ビデオを生成する最大秒数は 15 秒です",
+  "video_duration_min": "動画の長さは 1 秒以上である必要があります"
+}
