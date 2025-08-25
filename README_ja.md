@@ -2,14 +2,14 @@
 
 <p align="center">AIベクター画像生成は、テキスト入力や画像アップロードを通じてAIでベクター画像を生成し、さらにそのベクター画像から動画を作成することができます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/vector/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/56" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 
 ![](docs/302_AI_Vector_Graphics_Generation_jp.png)
 
-[302.AI](https://302.ai/ja/)の[AI ベクター画像生成](https://302.ai/ja/tools/vector/)のオープンソース版です。
+[302.AI](https://302.ai/ja/)の[AI ベクター画像生成](https://302.ai/product/detail/56)のオープンソース版です。
 302.AIに直接ログインすることで、コード不要、設定不要のオンライン体験が可能です。
 あるいは、このプロジェクトをニーズに合わせてカスタマイズし、302.AIのAPI KEYを統合して、自身でデプロイすることもできます。
 
