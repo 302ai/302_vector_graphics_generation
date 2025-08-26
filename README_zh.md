@@ -2,13 +2,13 @@
 
 <p align="center">AI矢量图生成通过上传图片或文字输入描述，即可使用AI生成矢量图，还可以根据矢量图生成视频。</p>
 
-<p align="center"><a href="https://302.ai/tools/vector/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/56" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_Vector_Graphics_Generation.png)
 
-来自[302.AI](https://302.ai)的[AI 矢量图生成](https://302.ai/tools/vector/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
+来自[302.AI](https://302.ai)的[AI 矢量图生成](https://302.ai/product/detail/56)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
 根据输入的文字描述，选择你想要的风格、比例以及颜色，即可使用AI生成矢量图。
